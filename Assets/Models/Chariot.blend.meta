@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 0a50073f795f1454388886a7a4c105c0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AnotherTHing_001
+    100002: AnotherTHing_002
+    100004: //RootNode
+    100006: Cube
+    100008: Cylinder
+    100010: Gear
+    100012: LeftWheel
+    100014: MainWheelPartRight_001
+    100016: MainWheelPartRight_002
+    100018: Plane
+    100020: RightWheel
+    100022: Thing1_001
+    100024: Thing1_002
+    100026: Thing2_001
+    100028: Thing2_002
+    100030: THing3_001
+    100032: THing3_002
+    100034: THing4_001
+    100036: THing4_002
+    100038: Torus
+    100040: WheelTurn
+    400000: AnotherTHing_001
+    400002: AnotherTHing_002
+    400004: //RootNode
+    400006: Cube
+    400008: Cylinder
+    400010: Gear
+    400012: LeftWheel
+    400014: MainWheelPartRight_001
+    400016: MainWheelPartRight_002
+    400018: Plane
+    400020: RightWheel
+    400022: Thing1_001
+    400024: Thing1_002
+    400026: Thing2_001
+    400028: Thing2_002
+    400030: THing3_001
+    400032: THing3_002
+    400034: THing4_001
+    400036: THing4_002
+    400038: Torus
+    400040: WheelTurn
+    2300000: AnotherTHing_001
+    2300002: AnotherTHing_002
+    2300004: Cube
+    2300006: Cylinder
+    2300008: Gear
+    2300010: MainWheelPartRight_001
+    2300012: MainWheelPartRight_002
+    2300014: Plane
+    2300016: Thing1_001
+    2300018: Thing1_002
+    2300020: Thing2_001
+    2300022: Thing2_002
+    2300024: THing3_001
+    2300026: THing3_002
+    2300028: THing4_001
+    2300030: THing4_002
+    2300032: Torus
+    3300000: AnotherTHing_001
+    3300002: AnotherTHing_002
+    3300004: Cube
+    3300006: Cylinder
+    3300008: Gear
+    3300010: MainWheelPartRight_001
+    3300012: MainWheelPartRight_002
+    3300014: Plane
+    3300016: Thing1_001
+    3300018: Thing1_002
+    3300020: Thing2_001
+    3300022: Thing2_002
+    3300024: THing3_001
+    3300026: THing3_002
+    3300028: THing4_001
+    3300030: THing4_002
+    3300032: Torus
+    4300000: Cube
+    4300002: Gear
+    4300004: Cylinder
+    4300006: Torus
+    4300008: Plane
+    4300010: MainWheelPartRight_002
+    4300012: Thing1_002
+    4300014: Thing2_002
+    4300016: THing3_002
+    4300018: THing4_002
+    4300020: AnotherTHing_002
+    4300022: AnotherTHing_001
+    4300024: THing4_001
+    4300026: THing3_001
+    4300028: Thing2_001
+    4300030: Thing1_001
+    4300032: MainWheelPartRight_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
