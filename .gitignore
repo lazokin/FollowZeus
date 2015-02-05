@@ -62,3 +62,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Machine Learning Log Data
+ML_LogData.txt
